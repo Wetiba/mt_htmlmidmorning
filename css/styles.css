@@ -1,0 +1,23 @@
+p{
+  color: blue;
+  font-family: "DejaVu Sans Mono";
+  font-size: 16px;
+
+}
+button{
+  padding: 15px;
+}
+table{
+width: 100%;
+  border-collapse: collapse;
+}
+th,td{
+  border: 3px dotted red;
+  font-family: "Century Schoolbook L";
+  text-align: center;
+  color: darkgoldenrod;
+  padding: 5px;
+}
+tr:nth-child(even){
+  background: blue;
+}
